@@ -1,7 +1,0 @@
-2020-11-02 00:18:09,578 -  * Restarting with windowsapi reloader
-2020-11-02 00:18:10,637 -  * Debugger is active!
-2020-11-02 00:18:10,642 -  * Debugger PIN: 300-271-185
-2020-11-02 00:18:10,670 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-2020-11-02 00:18:46,981 - 127.0.0.1 - - [02/Nov/2020 00:18:46] "[37mGET /Mimic/stats/ HTTP/1.1[0m" 200 -
-2020-11-02 00:19:01,625 - 127.0.0.1 - - [02/Nov/2020 00:19:01] "[37mOPTIONS /Mimic/model/ HTTP/1.1[0m" 200 -
-2020-11-02 00:19:01,979 - 127.0.0.1 - - [02/Nov/2020 00:19:01] "[37mPOST /Mimic/model/ HTTP/1.1[0m" 201 -
